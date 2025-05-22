@@ -1,0 +1,22 @@
+[
+ {
+  "table":"ATO_PK_ITEMS",
+  "index":
+  [
+   {
+    "columns":
+    [
+     {
+      "key":"ITEM_TYPE",
+      "value":"CFDF"
+     },
+     {
+      "key":"ITEM_ID",
+      "value":"ZZ1_SALESREF"
+     }
+    ],
+    "hash":"mqjcY68FFgHKM7GVV1XLFWZ1C1U="
+   }
+  ]
+ }
+]
